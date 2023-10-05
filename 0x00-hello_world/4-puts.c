@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 /**
- * Print an output
+ * main - Entry point of the program
  *
- * 'main()' - The function of printing
- * 'return(0)' -  The indication that it terminated successfully
+ * Description: This function prints a message to the standard output.
+ *
+ * Return: Always 0 (success)
  */
 int main(void)
 {

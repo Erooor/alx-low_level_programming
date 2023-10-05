@@ -2,8 +2,7 @@
 
 /**
  * main() - prints a string us a standard output
- * "\"Programming is like building a multilingual puzzle"
- * to the standard output.
+ * return (0) - is used to exit the program
  */
 int main(void)
 {

@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * The main() function prints the string
+ * main() - prints a string us a standard output
  * "\"Programming is like building a multilingual puzzle"
  * to the standard output.
  */

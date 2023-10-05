@@ -1,9 +1,12 @@
 #include <stdio.h>
 
 /**
- * this is a script that print a strig
- * main() - prints a string us a standard output
- * return (0) - is used to exit the program
+ * The main() function prints the string
+ * "Programming is like building a multilingual puzzle" to the standard output.
+ *
+ * Inputs: None
+ * Outputs: The string "Programming is like building a multilingual puzzle"
+ * Return value: 0 on success
  */
 int main(void)
 {

@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * 'int main(void)' - function prints the string
+ * Print "Programming is like building a multilingual puzzle"
+ * 'main()' - function prints the string
  *
  * Description: function prints The string
  * "Programming is like building a multilingual puzzle"

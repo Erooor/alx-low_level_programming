@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 /**
+ * this is a script that print a strig
  * main() - prints a string us a standard output
  * return (0) - is used to exit the program
  */

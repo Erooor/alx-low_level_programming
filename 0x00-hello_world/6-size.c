@@ -6,7 +6,7 @@
  * Description: This function prints the size of various types
  *
  * Return: Always 0 (success)
- * */
+ */
 int main(void)
 {
 char c;

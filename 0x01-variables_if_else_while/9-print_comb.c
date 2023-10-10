@@ -3,20 +3,19 @@
 /**
  * main - Entry point of the program
  *
- * Description:  prints all the numbers of base 16 in lowercase
+ * Description: prints all possible combinations of singl-digit numbers
  *
  * Return: Always 0 (success)
  */
-int main()
+int main(void)
 {
 int i = 0;
-
-while (i < 10)
+putchar('0');
+while (i < 9)
 {
-putchar(i + '0');
 putchar(',');
 putchar(' ');
-i++;
+putchar(++i + '0');
 }
 putchar('\n');
 

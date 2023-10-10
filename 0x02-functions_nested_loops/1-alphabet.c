@@ -8,16 +8,17 @@
  *
  * Return: Always 0 (success)
  */
-void print_alphabet(void)
+void print_alphabet(void);
 {
 char c = 'a';
-while (c <= 'z') {
+while (c <= 'z')
+{
 putchar(c);
 c++;
 }
 putchar('\n');
 }
-int main()
+int main(void)
 {
 print_alphabet();
 return (0);

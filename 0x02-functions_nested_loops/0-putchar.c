@@ -1,4 +1,4 @@
-#include "main.h"
+#include <main.h>
 #include <stdio.h>
 
 /**
@@ -18,5 +18,6 @@ putchar('c');
 putchar('h');
 putchar('a');
 putchar('r');
+putchar('\n');
 return (0);
 }

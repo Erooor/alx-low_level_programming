@@ -1,4 +1,3 @@
-#include "main.h"
 #include <stdio.h>
 
 /**
@@ -8,18 +7,18 @@
  *
  * Return: Always 0 (success)
  */
-
-int main(void)
-{
-print_alphabet();
-return (0);
-}
 void print_alphabet(void)
 {
 char c = 'a';
-while (c <= 'z') {
+while (c <= 'z')
+{
 putchar(c);
 c++;
 }
 putchar('\n');
+}
+int main(void)
+{
+print_alphabet();
+return (0);
 }

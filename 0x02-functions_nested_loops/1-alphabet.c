@@ -5,6 +5,8 @@
  *
  * Description: Print alphabect
  *
+ * print_alphabet - print lowercase alphabet
+ *
  * Return: Always 0 (success)
  */
 void print_alphabet(void)

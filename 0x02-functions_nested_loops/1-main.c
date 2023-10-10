@@ -1,5 +1,4 @@
 #include "main.h"
-#include "print_alphabet.h"
 
 /**
  * main - check the code

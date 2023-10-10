@@ -7,7 +7,8 @@
  *
  * Return: Always 0 (success)
  */
-void print_alphabet(void) /**print_alphabet - print lowercase alphabet*/
+/** print_alphabet - print lowercase alphabet. */
+void print_alphabet(void)
 {
 int c = 'a';
 while (c <= 'z')

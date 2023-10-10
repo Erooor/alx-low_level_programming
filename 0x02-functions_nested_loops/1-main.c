@@ -4,9 +4,11 @@
 /**
  * main - check the code for Holberton School students.
  *
+ * Description: the function print_alphabet print the alphabet
+ * whit a new line.
+ *
  * Return: Always 0.
  */
-void print_alphabet();
 int main(void)
 {
 print_alphabet();

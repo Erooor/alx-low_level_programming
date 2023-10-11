@@ -11,12 +11,9 @@ int _islower(int c)
 {
 int r;
 r = islower(c);
-if (r == 1)
+while (r == 1)
 {
 return (1);
 }
-else if (r != 1)
-{
 return (0);
-}
 }

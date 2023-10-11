@@ -1,7 +1,7 @@
 #include <ctype.h>
 
 /**
- * _islower - check for lowercase
+ * _isalpha - check for letter
  * @c: parametr to check
  *
  * Description: Return 1 if letter else Return 0

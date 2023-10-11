@@ -5,10 +5,9 @@
  *
  * Description: Return 1 in lowercase else Return 0
  *
- * @param c - parametr to check
- *
  * Return: Always 0 (success)
  */
+/**@param c - parametr to check */
 int _islower(int c)
 {
 if (c >= 'a' && c <= 'z')

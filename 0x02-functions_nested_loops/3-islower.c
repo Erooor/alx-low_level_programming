@@ -10,12 +10,12 @@
 int _islower(int c)
 {
 int r;
-r = _islower(c);
+r = islower(c);
 if (r == 1)
 {
 return (1);
 }
-else
+else if (r != 1)
 {
 return (0);
 }

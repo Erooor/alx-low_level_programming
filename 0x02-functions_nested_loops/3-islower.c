@@ -7,8 +7,7 @@
  *
  * Return: Always 0 (success)
  */
-/**@c: parametr to check */
-int _islower(int c)
+int _islower(int c)/**@c: parametr to check */
 {
 if (c >= 'a' && c <= 'z')
 {

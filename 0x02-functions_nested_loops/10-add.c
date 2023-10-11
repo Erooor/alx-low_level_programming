@@ -2,6 +2,8 @@
 
 /**
  * add - calculat the the sum of two integer
+ * @a: first parm to calculate
+ * @b: second parm to calculate
  *
  * Description: This function calculate the sum of two int and
  * return the sum

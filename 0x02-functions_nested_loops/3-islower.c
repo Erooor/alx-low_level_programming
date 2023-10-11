@@ -9,11 +9,12 @@
  */
 int _islower(int c)
 {
-int r;
-r = islower(c);
-while (r == 1)
+if (c >= 'a' && c <= 'z')
 {
-return (1);
+return 1;
 }
-return (0);
+else
+{
+return 0;
+}
 }

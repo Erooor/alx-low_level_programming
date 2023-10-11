@@ -11,18 +11,17 @@
 
 void print_to_98(int n)
 {
-int n;
 while ( n > 98 )
 {
-printf ("%d, ", n);
+printf("%d, ", n);
 n--;
 }
-int n;
-while ( n > 98 )
+while( n > 98 )
 {
-printf ("%d, ", n);
+printf("%d, ", n);
 n++;
 }
-printf ("98");
+printf("98");
+putchar('\n');
 return (0);
 }

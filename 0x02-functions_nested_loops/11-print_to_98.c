@@ -23,5 +23,4 @@ n++;
 }
 printf("98");
 putchar('\n');
-return (0);
 }

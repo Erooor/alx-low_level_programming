@@ -2,6 +2,7 @@
 
 /**
  * _abs - computes the absolute value of an integer.
+ * @n: check value
  *
  * Description: change the value to an absolute.
  *
@@ -11,10 +12,10 @@ int _abs(int n)
 {
 if (n < 0)
 {
-return(-n);
+return (-n);
 }
 else
 {
-return(n);
+return (n);
 }
 }

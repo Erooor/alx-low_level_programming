@@ -9,7 +9,6 @@
  */
 int _islower(int c)
 {
-int c = 'a';
 int r;
 r = islower(c);
 if (r == 1)

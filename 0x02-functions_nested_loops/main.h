@@ -9,4 +9,4 @@ int _putchar(int c);
 int print_sign(int n);
 int _abs(int n);
 int print_last_digit(int n);
-
+void print_to_98(int n);

@@ -9,8 +9,8 @@
  * Return: Always 0 (success)
  */
 
-int add(int , int )
+int add(int a, int b)
 {
-int sum = add(int, int);
-return (sum);
+int n = add(a, b);
+return (n);
 }

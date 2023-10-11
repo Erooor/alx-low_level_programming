@@ -10,9 +10,14 @@
 int _islower(int c)
 {
 int c = 'a';
-while (islower('c'))
+int r;
+r = islower(c);
+if (r == 1)
 {
 return (1);
 }
+else
+{
 return (0);
+}
 }

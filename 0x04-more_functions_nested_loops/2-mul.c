@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * _isdigit - Return a value if c a digit
+ * mul - Print multi of a and b
  * @a: Number one
  * @b: Number two
  * Return: 0 (Sucess)

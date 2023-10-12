@@ -7,7 +7,7 @@
  *
  * Return: 1 if upper or 0 if lower
  */
-int _isupper(int c);
+int _isupper(int c)
 {
     if (c >= 'A' && c <= 'Z')
     {

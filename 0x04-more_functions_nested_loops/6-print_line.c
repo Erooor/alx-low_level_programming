@@ -15,7 +15,7 @@ if (n > 0)
 putchar('_');
 n--;
 }
-else if (n < 0)
+if (n < 0)
 {
 putchar('_');
 n++;}

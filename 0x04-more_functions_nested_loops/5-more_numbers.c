@@ -1,7 +1,6 @@
 
 #include <stdio.h>
 
-
 /**
  * more_numbers - print a string of numbers
  *
@@ -10,10 +9,14 @@
  */
 void more_numbers(void)
 {
-int i = 0;
+int i;
+int c;
+
+i = 0;
 while (i <= 10)
 {
-int c = 0;
+
+c = 0;
 while (c <= 14)
 {
 if (c >= 10)

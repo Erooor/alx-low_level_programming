@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * _isupper - Return a value if c an upper or 
+ * _isupper - Return a value if c an upper or
  * lowercase
  * @c: letter to check
  *

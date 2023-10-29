@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 #include <stdlib.h>
+
 /**
  * main - print the results
  * @argc: number of arguments
@@ -20,7 +21,7 @@ return (1);
 }
 a = atoi(argv[1]);
 b = atoi(argv[2]);
-product = a * b;
+product = a *b;
 printf("%d\n", product);
 return (0);
 }

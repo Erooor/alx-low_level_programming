@@ -4,7 +4,7 @@
  * alloc_grid - create a grid
  * @width: Value of the width of the grid
  * @height: Value of the height of the grid
- * 
+ *
  * Return: if NULL return NULL else return grd
  */
 int **alloc_grid(int width, int height)

@@ -1,16 +1,16 @@
 #include "main.h"
 #include <stdlib.h>
 /**
- * create_array - create array of size size and assign char c
+ * _strdup - copy of the string given as a parameter
  * @str: Value to copy
- * 
+ *
  * Return: if stn NULL return NULL else return stn
  */
 char *_strdup(char *str)
 {
 	char *stn;
 	int i, j = 0;
-		
+
 	if (str == NULL)
 		return (NULL);
 	i = 0;

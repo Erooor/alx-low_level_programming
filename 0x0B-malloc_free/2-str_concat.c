@@ -17,7 +17,7 @@ i++;
 while (s2[j] != '\0')
 j++;
 new = malloc(sizeof(char) * (i + j + 1));
-if (stn == NULL)
+if (new == NULL)
 return (NULL);
 for (i = 0; s1[i]; i++)
 new[i] = s1[i];

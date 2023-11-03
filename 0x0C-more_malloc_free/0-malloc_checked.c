@@ -3,10 +3,10 @@
 #include <stdlib.h>
 
 /**
- * malloc_checked: function that allocates memory
+ * malloc_checked - function that allocates memory
  * @b: Input value
  *
- * Return: 98 if null
+ * Return: d if success
  */
 void *malloc_checked(unsigned int b)
 {

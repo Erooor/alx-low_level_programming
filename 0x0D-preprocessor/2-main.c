@@ -5,10 +5,10 @@
  *
  * Description: Print the current file name
  *
- * return: always 0.
+ * Return: always 0 if succes
  */
 
-void main(void)
+int main(void)
 {
 	printf("%s\n", __FILE__);
 	return (0);
